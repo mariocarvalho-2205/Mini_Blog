@@ -23,5 +23,5 @@ Firebase como backend e banco de dados
 
 Porta - localhost:5173
 
-Link do projeto funcionando - <a href="https://mariocarvalho-2205.github.io/" target="_blank">MiniBlog</a>
+Link do projeto funcionando - <a href="https://mariocarvalho-2205.github.io" target="_blank">MiniBlog</a>
 
