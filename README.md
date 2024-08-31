@@ -25,3 +25,7 @@ Porta - localhost:5173
 
 Link do projeto funcionando - <a href="https://mariocarvalho-2205.github.io/Mini_Blog/" target="_blank">MiniBlog</a>
 
+Para visualizar clique em Home
+
+Para postar, basta realizar o cadastro e realizar a postagem
+
